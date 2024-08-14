@@ -1,0 +1,6 @@
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Abstracst\bin\Debug\Abstracst.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Abstracst\bin\Debug\Abstracst.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Abstracst\obj\Debug\Abstracst.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Abstracst\obj\Debug\Abstracst.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Abstracst\obj\Debug\Abstracst.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Abstracst\obj\Debug\Abstracst.pdb

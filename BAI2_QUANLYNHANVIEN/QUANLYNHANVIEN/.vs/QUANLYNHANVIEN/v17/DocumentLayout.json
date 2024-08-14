@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{510630D3-6F7C-4538-8F86-4FAEC88142BE}|Import_NV\\Import_NV.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\import_nv\\importnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510630D3-6F7C-4538-8F86-4FAEC88142BE}|Import_NV\\Import_NV.csproj|solutionrelative:import_nv\\importnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36C21D7-F632-49E7-96B9-ACB754E0C1AA}|check\\check.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\check\\check_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36C21D7-F632-49E7-96B9-ACB754E0C1AA}|check\\check.csproj|solutionrelative:check\\check_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E047867F-E13A-4136-A42A-59E030B2C701}|QUANLYNHANVIEN\\QUANLYNHANVIEN.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E047867F-E13A-4136-A42A-59E030B2C701}|QUANLYNHANVIEN\\QUANLYNHANVIEN.csproj|solutionrelative:quanlynhanvien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E36C21D7-F632-49E7-96B9-ACB754E0C1AA}|check\\check.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\check\\checkvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E36C21D7-F632-49E7-96B9-ACB754E0C1AA}|check\\check.csproj|solutionrelative:check\\checkvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B945A1-E9DB-40A2-AB1C-48B0B8A710F8}|XuLi_PartTime\\XuLi_NV.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\xuli_parttime\\nvfulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B945A1-E9DB-40A2-AB1C-48B0B8A710F8}|XuLi_PartTime\\XuLi_NV.csproj|solutionrelative:xuli_parttime\\nvfulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF03FBA-4722-4392-9E00-9BB0A7D4F699}|Models_Nhanvien\\Models_Nhanvien.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\models_nhanvien\\model_nv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF03FBA-4722-4392-9E00-9BB0A7D4F699}|Models_Nhanvien\\Models_Nhanvien.csproj|solutionrelative:models_nhanvien\\model_nv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B945A1-E9DB-40A2-AB1C-48B0B8A710F8}|XuLi_PartTime\\XuLi_PartTime.csproj|d:\\baitap_be_07\\bai2_quanlynhanvien\\quanlynhanvien\\xuli_parttime\\nvparttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B945A1-E9DB-40A2-AB1C-48B0B8A710F8}|XuLi_PartTime\\XuLi_PartTime.csproj|solutionrelative:xuli_parttime\\nvparttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "check_string.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\check\\check_string.cs",
+              "RelativeDocumentMoniker": "check\\check_string.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\check\\check_string.cs",
+              "RelativeToolTip": "check\\check_string.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:05:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "checkvalidate.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\check\\checkvalidate.cs",
+              "RelativeDocumentMoniker": "check\\checkvalidate.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\check\\checkvalidate.cs",
+              "RelativeToolTip": "check\\checkvalidate.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:02:18.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportNV.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\Import_NV\\ImportNV.cs",
+              "RelativeDocumentMoniker": "Import_NV\\ImportNV.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\Import_NV\\ImportNV.cs",
+              "RelativeToolTip": "Import_NV\\ImportNV.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wB0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:59:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NVFullTime.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\XuLi_PartTime\\NVFullTime.cs",
+              "RelativeDocumentMoniker": "XuLi_PartTime\\NVFullTime.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\XuLi_PartTime\\NVFullTime.cs",
+              "RelativeToolTip": "XuLi_PartTime\\NVFullTime.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:55:33.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NVPartTime.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\XuLi_PartTime\\NVPartTime.cs",
+              "RelativeDocumentMoniker": "XuLi_PartTime\\NVPartTime.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\XuLi_PartTime\\NVPartTime.cs",
+              "RelativeToolTip": "XuLi_PartTime\\NVPartTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:41:58.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model_NV.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\Models_Nhanvien\\Model_NV.cs",
+              "RelativeDocumentMoniker": "Models_Nhanvien\\Model_NV.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\Models_Nhanvien\\Model_NV.cs",
+              "RelativeToolTip": "Models_Nhanvien\\Model_NV.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:27:58.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\QUANLYNHANVIEN\\Program.cs",
+              "RelativeDocumentMoniker": "QUANLYNHANVIEN\\Program.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI2_QUANLYNHANVIEN\\QUANLYNHANVIEN\\QUANLYNHANVIEN\\Program.cs",
+              "RelativeToolTip": "QUANLYNHANVIEN\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T07:27:26.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

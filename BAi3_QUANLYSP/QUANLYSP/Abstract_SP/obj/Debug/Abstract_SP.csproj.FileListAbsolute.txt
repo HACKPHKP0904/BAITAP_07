@@ -1,0 +1,6 @@
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Abstract_SP\bin\Debug\Abstract_SP.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Abstract_SP\bin\Debug\Abstract_SP.pdb
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Abstract_SP\obj\Debug\Abstract_SP.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Abstract_SP\obj\Debug\Abstract_SP.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Abstract_SP\obj\Debug\Abstract_SP.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Abstract_SP\obj\Debug\Abstract_SP.pdb

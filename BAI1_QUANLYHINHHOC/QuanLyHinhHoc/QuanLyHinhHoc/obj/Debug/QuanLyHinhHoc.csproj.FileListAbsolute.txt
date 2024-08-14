@@ -1,0 +1,16 @@
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe.config
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.exe
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\QuanLyHinhHoc.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\Abstracst.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\Check_Validate.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\Models_HinhHoc.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\XulLiTinhToan.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\Abstracst.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\Check_Validate.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\Models_HinhHoc.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\bin\Debug\XulLiTinhToan.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHi.4485E6B1.Up2Date
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.exe
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\QuanLyHinhHoc\obj\Debug\QuanLyHinhHoc.pdb

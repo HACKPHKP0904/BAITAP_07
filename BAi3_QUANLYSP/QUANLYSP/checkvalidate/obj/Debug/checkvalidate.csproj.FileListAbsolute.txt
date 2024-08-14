@@ -1,0 +1,6 @@
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\checkvalidate\bin\Debug\checkvalidate.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\checkvalidate\bin\Debug\checkvalidate.pdb
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\checkvalidate\obj\Debug\checkvalidate.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\checkvalidate\obj\Debug\checkvalidate.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\checkvalidate\obj\Debug\checkvalidate.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\checkvalidate\obj\Debug\checkvalidate.pdb

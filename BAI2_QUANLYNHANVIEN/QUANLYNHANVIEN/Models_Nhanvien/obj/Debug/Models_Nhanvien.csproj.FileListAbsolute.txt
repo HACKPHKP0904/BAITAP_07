@@ -1,0 +1,6 @@
+D:\BAITAP_BE_07\BAI2_QUANLYNHANVIEN\QUANLYNHANVIEN\Models_Nhanvien\bin\Debug\Models_Nhanvien.dll
+D:\BAITAP_BE_07\BAI2_QUANLYNHANVIEN\QUANLYNHANVIEN\Models_Nhanvien\bin\Debug\Models_Nhanvien.pdb
+D:\BAITAP_BE_07\BAI2_QUANLYNHANVIEN\QUANLYNHANVIEN\Models_Nhanvien\obj\Debug\Models_Nhanvien.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAI2_QUANLYNHANVIEN\QUANLYNHANVIEN\Models_Nhanvien\obj\Debug\Models_Nhanvien.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAI2_QUANLYNHANVIEN\QUANLYNHANVIEN\Models_Nhanvien\obj\Debug\Models_Nhanvien.dll
+D:\BAITAP_BE_07\BAI2_QUANLYNHANVIEN\QUANLYNHANVIEN\Models_Nhanvien\obj\Debug\Models_Nhanvien.pdb

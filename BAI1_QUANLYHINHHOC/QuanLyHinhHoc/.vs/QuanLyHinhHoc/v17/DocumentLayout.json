@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCED684-0979-41CA-8D52-49C2F32D4071}|XulLiTinhToan\\XulLiTinhToan.csproj|d:\\baitap_be_07\\bai1_quanlyhinhhoc\\quanlyhinhhoc\\xullitinhtoan\\xulitinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCED684-0979-41CA-8D52-49C2F32D4071}|XulLiTinhToan\\XulLiTinhToan.csproj|solutionrelative:xullitinhtoan\\xulitinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4DA99-66C5-4990-9BF8-2CC9C713C9B7}|Check_Validate\\Check_Validate.csproj|d:\\baitap_be_07\\bai1_quanlyhinhhoc\\quanlyhinhhoc\\check_validate\\checkvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4DA99-66C5-4990-9BF8-2CC9C713C9B7}|Check_Validate\\Check_Validate.csproj|solutionrelative:check_validate\\checkvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C4DA99-66C5-4990-9BF8-2CC9C713C9B7}|Check_Validate\\Check_Validate.csproj|d:\\baitap_be_07\\bai1_quanlyhinhhoc\\quanlyhinhhoc\\check_validate\\checkluachon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C4DA99-66C5-4990-9BF8-2CC9C713C9B7}|Check_Validate\\Check_Validate.csproj|solutionrelative:check_validate\\checkluachon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F08A691-FB76-4FFD-B3D0-5A756A417DA4}|QuanLyHinhHoc\\QuanLyHinhHoc.csproj|d:\\baitap_be_07\\bai1_quanlyhinhhoc\\quanlyhinhhoc\\quanlyhinhhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F08A691-FB76-4FFD-B3D0-5A756A417DA4}|QuanLyHinhHoc\\QuanLyHinhHoc.csproj|solutionrelative:quanlyhinhhoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE855FA-176E-4FF3-A274-A4FD19753D55}|Abstracst\\Abstracst.csproj|d:\\baitap_be_07\\bai1_quanlyhinhhoc\\quanlyhinhhoc\\abstracst\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE855FA-176E-4FF3-A274-A4FD19753D55}|Abstracst\\Abstracst.csproj|solutionrelative:abstracst\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\Abstracst\\Shape.cs",
+              "RelativeDocumentMoniker": "Abstracst\\Shape.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\Abstracst\\Shape.cs",
+              "RelativeToolTip": "Abstracst\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:53:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "checkluachon.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\Check_Validate\\checkluachon.cs",
+              "RelativeDocumentMoniker": "Check_Validate\\checkluachon.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\Check_Validate\\checkluachon.cs",
+              "RelativeToolTip": "Check_Validate\\checkluachon.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:45:47.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "checkvalidate.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\Check_Validate\\checkvalidate.cs",
+              "RelativeDocumentMoniker": "Check_Validate\\checkvalidate.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\Check_Validate\\checkvalidate.cs",
+              "RelativeToolTip": "Check_Validate\\checkvalidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:02:05.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\QuanLyHinhHoc\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyHinhHoc\\Program.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\QuanLyHinhHoc\\Program.cs",
+              "RelativeToolTip": "QuanLyHinhHoc\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:43:44.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XuLiTinhToan.cs",
+              "DocumentMoniker": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\XulLiTinhToan\\XuLiTinhToan.cs",
+              "RelativeDocumentMoniker": "XulLiTinhToan\\XuLiTinhToan.cs",
+              "ToolTip": "D:\\BAITAP_BE_07\\BAI1_QUANLYHINHHOC\\QuanLyHinhHoc\\XulLiTinhToan\\XuLiTinhToan.cs",
+              "RelativeToolTip": "XulLiTinhToan\\XuLiTinhToan.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:49:55.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

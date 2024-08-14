@@ -1,0 +1,9 @@
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\bin\Debug\Models_HinhHoc.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\bin\Debug\Models_HinhHoc.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\bin\Debug\Abstracst.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\bin\Debug\Abstracst.pdb
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\obj\Debug\Models_HinhHoc.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\obj\Debug\Models_HinhHoc.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\obj\Debug\Models_H.50767E82.Up2Date
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\obj\Debug\Models_HinhHoc.dll
+D:\BAITAP_BE_07\BAI1_QUANLYHINHHOC\QuanLyHinhHoc\Models_HinhHoc\obj\Debug\Models_HinhHoc.pdb

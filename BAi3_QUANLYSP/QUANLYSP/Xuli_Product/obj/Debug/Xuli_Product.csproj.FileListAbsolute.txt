@@ -1,0 +1,9 @@
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\bin\Debug\Xuli_Product.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\bin\Debug\Xuli_Product.pdb
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\bin\Debug\Abstract_SP.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\bin\Debug\Abstract_SP.pdb
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\obj\Debug\Xuli_Product.csproj.AssemblyReference.cache
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\obj\Debug\Xuli_Product.csproj.CoreCompileInputs.cache
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\obj\Debug\Xuli_Pro.EF0DBA61.Up2Date
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\obj\Debug\Xuli_Product.dll
+D:\BAITAP_BE_07\BAi3_QUANLYSP\QUANLYSP\Xuli_Product\obj\Debug\Xuli_Product.pdb
